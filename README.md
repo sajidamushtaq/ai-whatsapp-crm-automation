@@ -1,7 +1,9 @@
 # AI WhatsApp & CRM Automation
 
 > **Independent Portfolio Project** — A practical automation system for capturing leads from WhatsApp or forms, updating CRM records, automating follow-ups, moving opportunities through pipeline stages, and helping teams manage appointments more efficiently.
+## 📄 Workflow Sample
 
+[View the AI WhatsApp & CRM Automation Workflow Sample (PDF)](./AI-WhatsApp-CRM-Automation-Workflow-Sample.pdf)
 ## 🎯 Project Goal
 
 The goal of this workflow is to reduce manual lead handling and improve response speed by connecting WhatsApp communication with CRM automation.
